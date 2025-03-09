@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+notify2==0.3.1
+dbus-python==1.2.16
+pynotify==0.9.4
